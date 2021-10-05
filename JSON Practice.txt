@@ -1,0 +1,7 @@
+{"Customers":[
+            {"Name":Abdul , "Age":21 , "Location":"Saudi Arabia" , "Blood Group":"B+" , "Mobile":[{"Personal":"+00 9876543210" , "Home":"044-482248682"}] } ,
+            {"Name":"Rahman","Age":22 , "Location":"South Africa" , "Blood Group":"A+" , "Mobile":[{"Personal":"+00 9876234210" , "Home":"044-872248682}] } ,
+            {"Name":"King","Age":32 , "Location":"England" , "Blood Group":"B+" , "Mobile":[{"Personal":"+00 9876542210" , "Home":"044-212248682}] } ,
+            {"Name":"Prince","Age":19 , "Location":"USA" , "Blood Group":"AB+" , "Mobile":[{"Personal":"+00 3876543210" , "Home":"044-182248682}] }
+         ]
+}
